@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Projects:</h2>
 
-- [ENGI 1020 Receipt Assignment (Python)](https://github.com/StevenDyer164/receipt
+- [ENGI 1020 Receipt Assignment (Python)](https://github.com/StevenDyer164/PythonReceipt/tree/main)
 
 <h2> 🤳 Connect with me:</h2>
 
