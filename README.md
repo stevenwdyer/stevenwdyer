@@ -1,8 +1,9 @@
 <h1>Hi, I'm Steven! </h1>
 
-<h2>👨‍💻 Software Projects:</h2>
+<h2>Projects:</h2>
 
 - [ENGI 1020 Receipt Assignment (Python)](https://github.com/StevenDyer164/PythonReceipt/tree/main)
+- [Paradigm Engineering](https://github.com/ParadigmEngineering)
 
 <h2> 🤳 Connect with me:</h2>
 
